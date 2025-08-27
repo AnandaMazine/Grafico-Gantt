@@ -16,7 +16,7 @@ B--> |Não| D[Reprovado];
 ````
 
 ```mermaid
-gannt
+gantt
 title Exemplo de Gráfico de Gantt
 dateFormat YYYY-MM-DD
 section 1ºBimestre
