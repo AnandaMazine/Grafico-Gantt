@@ -3,7 +3,7 @@ gantt
 title Construção de uma Casa
 dateFormat YYYY-MM-DD
 section Planejamento
-1º-Planejamento e Aprovações:active pa, 2025-08-28, 20d
+1º-Planejamento e Aprovações:pa, 2025-08-28, 20d
 2º-Preparação do Terreno: pt, after pa, 10d
 3º-Escavação e Construção:ec, after pt, 15d
 4º-Fundação:fu, after ec, 30d
