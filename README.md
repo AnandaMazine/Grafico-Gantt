@@ -1,6 +1,6 @@
 ```mermaid
 gantt
-title Construção de uma Casa
+title Construção
 dateFormat YYYY-MM-DD
 section Planejamento da Casa
 1º-Planejamento e Aprovações:pa, 2025-08-28, 20d
