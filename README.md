@@ -23,8 +23,17 @@ Tubulações de água:eh, after fu, 20d
 Tubulações de esgoto:eh, after fu, 20d
 Fiação elétrica:eh, after fu, 20d
 Painéis elétrico:eh, after fu, 20d
-6º-Acabamento Interno:ai, after eh, 25d
-7º-Acabamento Externo:ae, after ai, 15d
-8º-Inspeção Final:if, after ae, 5d
+section Acabamento Interno
+Reboco:ai, after eh, 25d
+Pintura:ai, after eh, 25d
+Instalação de portas e janelas:ai, after eh, 25d
+Outros Acabamentos:ai, after eh, 25d
+section Acabamento Externo
+Pintura externa:ae, after ai, 15d
+Paisagismo:ae, after ai, 15d
+Instalação de cercas:ae, after ai, 15d
+section Inspeção Final
+Inspeção:if, after ae, 5d
+Entrega da Casa:if, after ae, 5d
 
 ```
