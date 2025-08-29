@@ -9,7 +9,11 @@ Plano de Construção:pa, 2025-08-28, 20d
 section Preparação do Terreno
 Limpeza: pt, after pa, 10d
 Nivelamento: pt, after pa, 10d
-3º-Escavação e Construção:ec, after pt, 15d
+section: Fundação da Casa
+Escavação:ec, after pt, 15d
+Fundação:ec, after pt, 15d
+Impermeabilização:ec, after pt, 15d
+section Estruturação
 4º-Fundação:fu, after ec, 30d
 5º-Instalação Elétricas e Hidráulicas:eh, after fu, 20d
 6º-Acabamento Interno:ai, after eh, 25d
