@@ -6,7 +6,9 @@ section Planejamento e Aprovações
 Desenhos Arquitetônicos:pa, 2025-08-28, 20d
 Aprovações:pa, 2025-08-28, 20d
 Plano de Construção:pa, 2025-08-28, 20d
-2º-Preparação do Terreno: pt, after pa, 10d
+section Preparação do Terreno
+Limpeza: pt, after pa, 10d
+Nivelamento: pt, after pa, 10d
 3º-Escavação e Construção:ec, after pt, 15d
 4º-Fundação:fu, after ec, 30d
 5º-Instalação Elétricas e Hidráulicas:eh, after fu, 20d
