@@ -2,7 +2,7 @@
 gantt
 title Construção de uma casa
 dateFormat YYYY-MM-DD
-section Planejamento e Aprovações
+section Planejamento e \nAprovações
 Desenhos Arquitetônicos:pa, 2025-08-28, 20d
 Aprovações:pa, 2025-08-28, 20d
 Plano de Construção:pa, 2025-08-28, 20d
