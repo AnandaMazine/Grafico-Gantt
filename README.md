@@ -37,3 +37,12 @@ Inspeção:if, after ae, 5d
 Entrega da Casa:if, after ae, 5d
 
 ```
+
+
+```mermaid
+graph TD
+  subgraph Matriz
+A1["C8"]:::branco --> A2["C20]:::amarelo --> A3["V50"]:::laranja --> A4["V100"]:::vermelho
+
+end
+```
