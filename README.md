@@ -11,7 +11,12 @@ Layout Sistema:ls, after rt, 5d
 section Desenvolvimento
 Configuração do ambiente:ca, after ls, 5d
 Criação Banco de Dados:db, after ca, 10d
-Módulo login:ml, after db, 10d
+
+section Programação do Módulo
+Login:lo, after db, 7d
+Autenticação:at, after lo, 2d
+Recuperação de senha:rs, after at, 1d
+Validação Acesso:va, after rs, 2d
 
 ```
 
