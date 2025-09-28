@@ -35,6 +35,16 @@ Desenvolvimento Relatórios:dr, after as, 5d
 section Administrativo
 Confirguração Painel: cp, after dr, 3d
 Controlar Permissões: cp, after dr, 3d
+
+section Testes Unitários
+Testes unitários:tu, after cp, 5d
+Relatórios de falhas: rf, after tu, 2d
+Correções:co, after rf, 5d
+
+section Testes de Uso
+Teste de usabilidade:tu, after rf, 7d
+Implementação:im, after tu, 5d
+Entrega: en, after im, 7d
 ```
 
 ```mermaid
