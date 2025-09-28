@@ -13,10 +13,10 @@ Configuração do ambiente:ca, after ls, 5d
 Criação Banco de Dados:db, after ca, 10d
 
 section Programação do Módulo
-Login:lo, after db, 7d
-Autenticação:at, after lo, 2d
-Recuperação:rs, after at, 1d
-Validação:va, after rs, 2d
+Login:lo, after db, 10d
+Autenticação:at, after lo, 3d
+Recuperação:rs, after at, 2d
+Validação:va, after rs, 3d
 
 section CRUD
 Cadastro:ct, after va, 10d
@@ -25,25 +25,25 @@ Exclusão:ex, after va, 10d
 Listagem:li, after va, 10d
 
 section Implementação
-Upload logotipo:ul, after li, 7d
-Tratamento Imagens:ti, after li, 7d
+Upload logotipo:ul, after li, 10d
+Tratamento Imagens:ti, after li, 8d
 Armazenamento Servidor:as, after li, 7d
 
 section Relatórios
 Desenvolvimento Relatórios:dr, after as, 5d
 
 section Administrativo
-Confirguração Painel: cp, after dr, 3d
-Controlar Permissões: pr, after dr, 3d
+Confirguração Painel: cp, after dr, 5d
+Controlar Permissões: pr, after dr, 5d
 
 section Testes Unitários
 Testes unitários:tu, after cp, 5d
-Relatórios de falhas: rf, after tu, 2d
-Correções:co, after rf, 5d
+Relatórios de falhas: rf, after tu, 3d
+Correções:co, after rf, 6d
 
 section Testes de Uso
-Teste de usabilidade:us, after rf, 7d
-Implementação:im, after us, 5d
+Teste de usabilidade:us, after rf, 8d
+Implementação:im, after us, 10d
 Entrega: en, after im, 7d
 ```
 
