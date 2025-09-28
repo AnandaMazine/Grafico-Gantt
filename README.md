@@ -1,5 +1,15 @@
 ```mermaid
 gantt
+title TechConnect Solutions
+dateFormat YYYY-MM-DD
+section Planejamento
+Levantamento de requisitos:lr, 2025-10-01, 14d
+Documentação funcional:df, 2025-10-07, 7d
+Rascunho Layout: rl, 2025-10-07, 14d
+```
+
+```mermaid
+gantt
 title Construção de uma Casa
 dateFormat YYYY-MM-DD
 section Planejamento e Aprovações
