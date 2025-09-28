@@ -3,9 +3,10 @@ gantt
 title TechConnect Solutions
 dateFormat YYYY-MM-DD
 section Planejamento
-Levantamento de requisitos:lr, 2025-10-01, 14d
-Documentação funcional:df, 2025-10-07, 7d
-Rascunho Layout: rl, 2025-10-07, 14d
+Instalação de Frameworks:if, 2025-10-01, 14d
+Integração BD:ib, 2025-10-07, 7d
+Conrole Git: cg, 2025-10-07, 7d
+Criação Banco de Dados:db, 2025-10-07, 7d
 ```
 
 ```mermaid
