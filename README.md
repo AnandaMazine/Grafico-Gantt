@@ -33,7 +33,7 @@ section Relatórios
 Desenvolvimento Relatórios:dr, after as, 5d
 
 section Administrativo
-Confirguração Painel: cp, after dr, 5d
+Configuração Painel: cp, after dr, 5d
 Controlar Permissões: pr, after dr, 5d
 
 section Testes Unitários
