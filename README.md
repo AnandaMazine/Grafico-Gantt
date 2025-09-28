@@ -5,7 +5,7 @@ dateFormat YYYY-MM-DD
 section Planejamento
 Instalação de Frameworks:if, 2025-10-01, 14d
 Integração BD:ib, 2025-10-07, 7d
-Conrole Git: cg, 2025-10-07, 7d
+Conrole Git: cg, 2025-10-07, 7s
 Criação Banco de Dados:db, 2025-10-07, 7d
 ```
 
