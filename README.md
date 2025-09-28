@@ -2,6 +2,12 @@
 gantt
 title TechConnect Solutions
 dateFormat YYYY-MM-DD
+section Levantamento
+Levantamento de requisitos:lr, 2025-10-01, 3d
+Documentação Funcional:df, after lr, 3d
+Rascunho de telas:rt, after df, 3d
+Layout Sistema:ls, after rt, 5d
+
 section Planejamento
 Instalação de Frameworks:if, 2025-10-01, 14d
 Integração BD:ib, 2025-10-07, 7d
