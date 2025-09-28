@@ -24,7 +24,17 @@ Edição:ed, after va, 10d
 Exclusão:ex, after va, 10d
 Listagem:li, after va, 10d
 
+section Implementação
+Upload logotipo:ul, after li, 7d
+Tratamento Imagens:ti, after li, 7d
+Armazenamento Servidor:as, after li, 7d
 
+section Relatórios
+Desenvolvimento Relatórios:dr, after as, 5d
+
+section Administrativo
+Confirguração Painel: cp, after dr, 3d
+Controlar Permissões: cp, after dr, 3d
 ```
 
 ```mermaid
