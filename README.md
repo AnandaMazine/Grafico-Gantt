@@ -15,8 +15,15 @@ Criação Banco de Dados:db, after ca, 10d
 section Programação do Módulo
 Login:lo, after db, 7d
 Autenticação:at, after lo, 2d
-Recuperação de senha:rs, after at, 1d
-Validação Acesso:va, after rs, 2d
+Recuperação:rs, after at, 1d
+Validação:va, after rs, 2d
+
+section CRUD
+Cadastro:ct, after va, 10d
+Edição:ed, after va, 10d
+Exclusão:ex, after va, 10d
+Listagem:li, after va, 10d
+
 
 ```
 
