@@ -3,9 +3,19 @@ gantt
 title Sistema de Biblioteca Online
 dateFormat YYYY-MM-DD
 section Planejamento
+Levantamento de Requisitos:lr, 2025-10-01, 5d
+Análise de Viabilidade:av, after lr, 4d
 section Desenvolvimento
+Modelagem do Banco de Dados:bd, after av, 6d
+Implementação de Funcionalidades:if, after bd, 12d
 section Testes
+Testes Unitários:tu, after if, 5d
+Testes de Integração:ti, after tu, 7d
 section Implantação
+Teste de usabilidade:us, after ti, 8d
+Implementação:im, after us, 10d
+Entrega:en, after im, 7d
+
 ```
 ```mermaid
 gantt
