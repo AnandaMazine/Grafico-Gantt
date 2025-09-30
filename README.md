@@ -12,8 +12,7 @@ section Testes
 Testes Unitários:tu, after if, 5d
 Testes de Integração:ti, after tu, 7d
 section Implantação
-Teste de usabilidade:us, after ti, 8d
-Implementação:im, after us, 10d
+Implementação:im, after ti, 10d
 Entrega:en, after im, 7d
 
 ```
