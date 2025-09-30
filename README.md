@@ -1,5 +1,14 @@
 ```mermaid
 gantt
+title Sistema de Biblioteca Online
+dateFormat YYYY-MM-DD
+section Planejamento
+section Desenvolvimento
+section Testes
+section Implantação
+```
+```mermaid
+gantt
 title TechConnect Solutions
 dateFormat YYYY-MM-DD
 section Planejamento
