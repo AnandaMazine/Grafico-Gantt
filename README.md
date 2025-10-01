@@ -4,9 +4,9 @@ title Sistema de Biblioteca Online
 dateFormat YYYY-MM-DD
 section Planejamento
 Levantamento de Requisitos:lr, 2025-10-01, 5d
-Análise de Viabilidade:av, after lr, 4d
+Layout do Sistema:ls, after lr, 4d
 section Desenvolvimento
-Modelagem do Banco de Dados:bd, after av, 6d
+Modelagem do Banco de Dados:bd, after ls, 6d
 Implementação de Funcionalidades:if, after bd, 12d
 section Testes
 Testes Unitários:tu, after if, 5d
