@@ -16,6 +16,7 @@ Implementação:im, after ti, 10d
 Entrega:en, after im, 7d
 
 ```
+
 ```mermaid
 gantt
 title TechConnect Solutions
